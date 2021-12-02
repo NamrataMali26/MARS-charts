@@ -22,7 +22,7 @@ Upload a CSV (comma-separated-value) text file with the classification decisions
 
 ## Evaluation
 
-To interpret the results refer to the documentation.txt
+To interpret the results refer to the documentation.docx
 
 ## License
 Distributed under the MIT License.
