@@ -23,7 +23,9 @@ Upload a CSV (comma-separated-value) text file with the classification decisions
 ## Evaluation
 
 To interpret the results refer to the documentation.docx
+[url=https://postimg.cc/MvPSrc1g][img]https://i.postimg.cc/MvPSrc1g/occ.png[/img][/url]
 
+[url=https://postimg.cc/Snnh0yrR][img]https://i.postimg.cc/Snnh0yrR/shine.png[/img][/url]
 ## License
 Distributed under the MIT License.
 
