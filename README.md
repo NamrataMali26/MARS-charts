@@ -1,5 +1,15 @@
 # MARS-charts
+Implementation of MARS charts and MARS metrics for evaluating classifier exclusivity: the comparative uniqueness of binary classifier predictions.
+
 ## Requirements
+Python 3.7.9 
+Pandas 1.1.3 
+Plotly 5.4.0
+
+## Dataset
+To reproduce the results download 
+
+##
 MARS Charts and MARS Metrics User Instructions:
 To produce the results:
 
@@ -36,3 +46,8 @@ b.	The second term indicates the proportion of false negatives exclusively label
 •	The red circle represents false negatives of the classifier named on the x-axis and y-axis (i.e., observations in the target class that were missed by the classifier on the x-axis and y-axis) which were identified correctly by any of the other classifiers.
 •	The radius of each bubble represents the count of unique observations.  The area of each circle should not be interpreted as area does not scale linearly with radius: instead, interpret the radiuses alone, as the difference in radiuses clearly shows the magnitude differences of the observation counts.
 
+## License
+Distributed under the MIT License.
+
+## Contact
+mars_classifier_evaluation@vt.edu 
