@@ -7,7 +7,7 @@ Pandas 1.1.3 <br>
 Plotly 5.4.0
 
 ## Dataset
-Performed classififcation on Breast cancer dataset from scikit learn using Logistic Regression, Decision Tree, Random Forest and Support Vcetor Machine. Classification results are arranged in the proposed format same as classification_breast_cancer_dataset.csv.
+Performed classification on breast cancer dataset from scikit learn using Logistic Regression, Decision Tree, Random Forest and Support Vcetor Machine. Classification results are arranged in the proposed format, same as classification_breast_cancer_dataset.csv.
 
 MARS Charts and MARS Metrics User Instructions:
 To produce the results:
