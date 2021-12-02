@@ -22,8 +22,8 @@ Upload a CSV (comma-separated-value) text file with the classification decisions
 
 ## Evaluation
 
-To interpret the results refer to the documentation.docx
-Sample chart produced by the software utilizing the provided breast cancer dataset.
+To interpret the results refer to the documentation.docx.<br>
+Sample chart produced by the software utilizing the provided breast cancer dataset:
 1. ShineThrough Chart
 <img src="https://github.com/NamrataMali26/MARS-charts/blob/main/ShineThrough%20Chart.PNG" width=50% height=50%>
 2. Occlusion Chart
