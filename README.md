@@ -27,6 +27,7 @@ Sample chart produced by the software utilizing the provided breast cancer datas
 1. ShineThrough Chart
 ![Alt text](https://github.com/NamrataMali26/MARS-charts/blob/main/ShineThrough%20Chart.PNG)
 2. Occlusion Chart
+<img src="https://github.com/NamrataMali26/MARS-charts/blob/main/Occlusion%20Chart.PNG" width=50% height=50%>
 
 ## License
 Distributed under the MIT License.
