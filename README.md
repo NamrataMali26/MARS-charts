@@ -2,8 +2,8 @@
 Implementation of MARS charts and MARS metrics for evaluating classifier exclusivity: the comparative uniqueness of binary classifier predictions.
 
 ## Requirements
-Python 3.7.9 
-Pandas 1.1.3 
+Python 3.7.9 <br>
+Pandas 1.1.3 <br>
 Plotly 5.4.0
 
 ## Dataset
