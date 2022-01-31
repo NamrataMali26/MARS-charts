@@ -1,0 +1,716 @@
+Instance ID,classifier,pred_label,true_label
+0,custom1,0,0
+1,custom1,1,1
+2,custom1,1,1
+3,custom1,1,1
+4,custom1,1,1
+5,custom1,1,1
+6,custom1,1,1
+7,custom1,1,1
+8,custom1,1,1
+9,custom1,1,1
+10,custom1,1,1
+11,custom1,1,1
+12,custom1,1,1
+13,custom1,0,1
+14,custom1,1,1
+15,custom1,0,0
+16,custom1,1,1
+17,custom1,0,0
+18,custom1,0,0
+19,custom1,0,0
+20,custom1,0,0
+21,custom1,0,0
+22,custom1,1,1
+23,custom1,1,1
+24,custom1,0,0
+25,custom1,1,1
+26,custom1,1,1
+27,custom1,0,0
+28,custom1,1,1
+29,custom1,0,0
+30,custom1,1,1
+31,custom1,0,0
+32,custom1,1,1
+33,custom1,0,0
+34,custom1,1,1
+35,custom1,0,0
+36,custom1,1,1
+37,custom1,0,0
+38,custom1,1,1
+39,custom1,0,0
+40,custom1,0,0
+41,custom1,1,1
+42,custom1,0,0
+43,custom1,1,1
+44,custom1,1,1
+45,custom1,0,0
+46,custom1,1,1
+47,custom1,1,1
+48,custom1,1,1
+49,custom1,0,0
+50,custom1,0,0
+51,custom1,0,0
+52,custom1,0,0
+53,custom1,1,1
+54,custom1,1,1
+55,custom1,1,1
+56,custom1,1,1
+57,custom1,1,1
+58,custom1,1,1
+59,custom1,0,0
+60,custom1,0,0
+61,custom1,0,0
+62,custom1,1,1
+63,custom1,1,1
+64,custom1,0,0
+65,custom1,1,1
+66,custom1,0,0
+67,custom1,0,0
+68,custom1,0,0
+69,custom1,1,1
+70,custom1,1,1
+71,custom1,0,0
+72,custom1,1,1
+73,custom1,0,0
+74,custom1,0,0
+75,custom1,1,1
+76,custom1,1,1
+77,custom1,1,1
+78,custom1,1,1
+79,custom1,1,1
+80,custom1,0,0
+81,custom1,0,0
+82,custom1,0,0
+83,custom1,1,1
+84,custom1,0,0
+85,custom1,1,1
+86,custom1,1,1
+87,custom1,1,1
+88,custom1,0,0
+89,custom1,0,0
+90,custom1,1,1
+91,custom1,0,0
+92,custom1,0,1
+93,custom1,0,0
+94,custom1,1,1
+95,custom1,1,1
+96,custom1,0,0
+97,custom1,1,1
+98,custom1,1,1
+99,custom1,1,1
+100,custom1,1,1
+101,custom1,1,1
+102,custom1,1,1
+103,custom1,1,1
+104,custom1,0,0
+105,custom1,1,1
+106,custom1,0,0
+107,custom1,1,1
+108,custom1,1,0
+109,custom1,1,0
+110,custom1,1,1
+111,custom1,0,0
+112,custom1,0,0
+113,custom1,1,1
+114,custom1,1,1
+115,custom1,1,1
+116,custom1,1,1
+117,custom1,1,1
+118,custom1,1,1
+119,custom1,1,1
+120,custom1,1,1
+121,custom1,1,1
+122,custom1,1,0
+123,custom1,1,1
+124,custom1,0,0
+125,custom1,1,1
+126,custom1,1,1
+127,custom1,1,1
+128,custom1,1,1
+129,custom1,1,1
+130,custom1,0,0
+131,custom1,1,1
+132,custom1,1,1
+133,custom1,1,1
+134,custom1,1,1
+135,custom1,1,1
+136,custom1,0,1
+137,custom1,0,0
+138,custom1,0,0
+139,custom1,1,1
+140,custom1,1,1
+141,custom1,1,1
+142,custom1,0,0
+0,customNN2,0,0
+1,customNN2,1,1
+2,customNN2,1,1
+3,customNN2,1,1
+4,customNN2,1,1
+5,customNN2,1,1
+6,customNN2,1,1
+7,customNN2,1,1
+8,customNN2,1,1
+9,customNN2,1,1
+10,customNN2,1,1
+11,customNN2,1,1
+12,customNN2,1,1
+13,customNN2,0,1
+14,customNN2,1,1
+15,customNN2,0,0
+16,customNN2,1,1
+17,customNN2,0,0
+18,customNN2,0,0
+19,customNN2,0,0
+20,customNN2,0,0
+21,customNN2,0,0
+22,customNN2,1,1
+23,customNN2,1,1
+24,customNN2,0,0
+25,customNN2,1,1
+26,customNN2,1,1
+27,customNN2,0,0
+28,customNN2,1,1
+29,customNN2,0,0
+30,customNN2,1,1
+31,customNN2,0,0
+32,customNN2,1,1
+33,customNN2,0,0
+34,customNN2,1,1
+35,customNN2,0,0
+36,customNN2,1,1
+37,customNN2,0,0
+38,customNN2,1,1
+39,customNN2,0,0
+40,customNN2,0,0
+41,customNN2,1,1
+42,customNN2,0,0
+43,customNN2,1,1
+44,customNN2,1,1
+45,customNN2,0,0
+46,customNN2,1,1
+47,customNN2,1,1
+48,customNN2,1,1
+49,customNN2,0,0
+50,customNN2,0,0
+51,customNN2,0,0
+52,customNN2,0,0
+53,customNN2,1,1
+54,customNN2,1,1
+55,customNN2,1,1
+56,customNN2,1,1
+57,customNN2,1,1
+58,customNN2,1,1
+59,customNN2,0,0
+60,customNN2,0,0
+61,customNN2,0,0
+62,customNN2,1,1
+63,customNN2,1,1
+64,customNN2,0,0
+65,customNN2,1,1
+66,customNN2,0,0
+67,customNN2,0,0
+68,customNN2,0,0
+69,customNN2,1,1
+70,customNN2,1,1
+71,customNN2,0,0
+72,customNN2,1,1
+73,customNN2,0,0
+74,customNN2,0,0
+75,customNN2,1,1
+76,customNN2,1,1
+77,customNN2,1,1
+78,customNN2,1,1
+79,customNN2,1,1
+80,customNN2,0,0
+81,customNN2,0,0
+82,customNN2,0,0
+83,customNN2,1,1
+84,customNN2,0,0
+85,customNN2,1,1
+86,customNN2,1,1
+87,customNN2,1,1
+88,customNN2,0,0
+89,customNN2,0,0
+90,customNN2,1,1
+91,customNN2,0,0
+92,customNN2,0,1
+93,customNN2,0,0
+94,customNN2,1,1
+95,customNN2,1,1
+96,customNN2,0,0
+97,customNN2,1,1
+98,customNN2,1,1
+99,customNN2,1,1
+100,customNN2,1,1
+101,customNN2,1,1
+102,customNN2,1,1
+103,customNN2,1,1
+104,customNN2,0,0
+105,customNN2,1,1
+106,customNN2,0,0
+107,customNN2,1,1
+108,customNN2,1,0
+109,customNN2,1,0
+110,customNN2,1,1
+111,customNN2,0,0
+112,customNN2,0,0
+113,customNN2,1,1
+114,customNN2,1,1
+115,customNN2,1,1
+116,customNN2,1,1
+117,customNN2,1,1
+118,customNN2,1,1
+119,customNN2,1,1
+120,customNN2,1,1
+121,customNN2,1,1
+122,customNN2,0,0
+123,customNN2,1,1
+124,customNN2,0,0
+125,customNN2,1,1
+126,customNN2,1,1
+127,customNN2,1,1
+128,customNN2,1,1
+129,customNN2,1,1
+130,customNN2,0,0
+131,customNN2,1,1
+132,customNN2,1,1
+133,customNN2,1,1
+134,customNN2,1,1
+135,customNN2,1,1
+136,customNN2,1,1
+137,customNN2,0,0
+138,customNN2,0,0
+139,customNN2,1,1
+140,customNN2,1,1
+141,customNN2,1,1
+142,customNN2,0,0
+0,customCNN3,0,0
+1,customCNN3,1,1
+2,customCNN3,1,1
+3,customCNN3,1,1
+4,customCNN3,1,1
+5,customCNN3,1,1
+6,customCNN3,1,1
+7,customCNN3,1,1
+8,customCNN3,1,1
+9,customCNN3,1,1
+10,customCNN3,1,1
+11,customCNN3,1,1
+12,customCNN3,1,1
+13,customCNN3,1,1
+14,customCNN3,1,1
+15,customCNN3,0,0
+16,customCNN3,1,1
+17,customCNN3,0,0
+18,customCNN3,0,0
+19,customCNN3,0,0
+20,customCNN3,0,0
+21,customCNN3,0,0
+22,customCNN3,1,1
+23,customCNN3,1,1
+24,customCNN3,0,0
+25,customCNN3,1,1
+26,customCNN3,1,1
+27,customCNN3,0,0
+28,customCNN3,1,1
+29,customCNN3,0,0
+30,customCNN3,1,1
+31,customCNN3,0,0
+32,customCNN3,1,1
+33,customCNN3,0,0
+34,customCNN3,1,1
+35,customCNN3,0,0
+36,customCNN3,1,1
+37,customCNN3,0,0
+38,customCNN3,1,1
+39,customCNN3,0,0
+40,customCNN3,0,0
+41,customCNN3,1,1
+42,customCNN3,1,0
+43,customCNN3,1,1
+44,customCNN3,1,1
+45,customCNN3,0,0
+46,customCNN3,1,1
+47,customCNN3,1,1
+48,customCNN3,1,1
+49,customCNN3,0,0
+50,customCNN3,0,0
+51,customCNN3,0,0
+52,customCNN3,0,0
+53,customCNN3,1,1
+54,customCNN3,1,1
+55,customCNN3,1,1
+56,customCNN3,1,1
+57,customCNN3,1,1
+58,customCNN3,1,1
+59,customCNN3,0,0
+60,customCNN3,0,0
+61,customCNN3,0,0
+62,customCNN3,1,1
+63,customCNN3,1,1
+64,customCNN3,0,0
+65,customCNN3,1,1
+66,customCNN3,0,0
+67,customCNN3,0,0
+68,customCNN3,0,0
+69,customCNN3,1,1
+70,customCNN3,1,1
+71,customCNN3,0,0
+72,customCNN3,1,1
+73,customCNN3,1,0
+74,customCNN3,0,0
+75,customCNN3,1,1
+76,customCNN3,1,1
+77,customCNN3,1,1
+78,customCNN3,1,1
+79,customCNN3,1,1
+80,customCNN3,0,0
+81,customCNN3,0,0
+82,customCNN3,0,0
+83,customCNN3,1,1
+84,customCNN3,0,0
+85,customCNN3,1,1
+86,customCNN3,1,1
+87,customCNN3,1,1
+88,customCNN3,0,0
+89,customCNN3,0,0
+90,customCNN3,1,1
+91,customCNN3,1,0
+92,customCNN3,1,1
+93,customCNN3,0,0
+94,customCNN3,1,1
+95,customCNN3,1,1
+96,customCNN3,0,0
+97,customCNN3,1,1
+98,customCNN3,1,1
+99,customCNN3,1,1
+100,customCNN3,1,1
+101,customCNN3,1,1
+102,customCNN3,1,1
+103,customCNN3,1,1
+104,customCNN3,0,0
+105,customCNN3,1,1
+106,customCNN3,0,0
+107,customCNN3,1,1
+108,customCNN3,1,0
+109,customCNN3,1,0
+110,customCNN3,1,1
+111,customCNN3,0,0
+112,customCNN3,0,0
+113,customCNN3,1,1
+114,customCNN3,1,1
+115,customCNN3,1,1
+116,customCNN3,1,1
+117,customCNN3,1,1
+118,customCNN3,1,1
+119,customCNN3,1,1
+120,customCNN3,1,1
+121,customCNN3,1,1
+122,customCNN3,0,0
+123,customCNN3,1,1
+124,customCNN3,0,0
+125,customCNN3,1,1
+126,customCNN3,1,1
+127,customCNN3,1,1
+128,customCNN3,1,1
+129,customCNN3,1,1
+130,customCNN3,0,0
+131,customCNN3,1,1
+132,customCNN3,1,1
+133,customCNN3,1,1
+134,customCNN3,1,1
+135,customCNN3,1,1
+136,customCNN3,1,1
+137,customCNN3,1,0
+138,customCNN3,0,0
+139,customCNN3,1,1
+140,customCNN3,1,1
+141,customCNN3,1,1
+142,customCNN3,0,0
+0,Random Forest,0,0
+1,Random Forest,1,1
+2,Random Forest,1,1
+3,Random Forest,1,1
+4,Random Forest,1,1
+5,Random Forest,1,1
+6,Random Forest,1,1
+7,Random Forest,1,1
+8,Random Forest,1,1
+9,Random Forest,1,1
+10,Random Forest,0,1
+11,Random Forest,1,1
+12,Random Forest,1,1
+13,Random Forest,0,1
+14,Random Forest,0,1
+15,Random Forest,0,0
+16,Random Forest,1,1
+17,Random Forest,0,0
+18,Random Forest,0,0
+19,Random Forest,0,0
+20,Random Forest,0,0
+21,Random Forest,0,0
+22,Random Forest,1,1
+23,Random Forest,1,1
+24,Random Forest,0,0
+25,Random Forest,1,1
+26,Random Forest,1,1
+27,Random Forest,0,0
+28,Random Forest,1,1
+29,Random Forest,0,0
+30,Random Forest,1,1
+31,Random Forest,0,0
+32,Random Forest,1,1
+33,Random Forest,0,0
+34,Random Forest,1,1
+35,Random Forest,0,0
+36,Random Forest,1,1
+37,Random Forest,0,0
+38,Random Forest,1,1
+39,Random Forest,0,0
+40,Random Forest,0,0
+41,Random Forest,1,1
+42,Random Forest,0,0
+43,Random Forest,1,1
+44,Random Forest,1,1
+45,Random Forest,0,0
+46,Random Forest,1,1
+47,Random Forest,1,1
+48,Random Forest,1,1
+49,Random Forest,0,0
+50,Random Forest,0,0
+51,Random Forest,0,0
+52,Random Forest,0,0
+53,Random Forest,1,1
+54,Random Forest,1,1
+55,Random Forest,1,1
+56,Random Forest,1,1
+57,Random Forest,1,1
+58,Random Forest,1,1
+59,Random Forest,0,0
+60,Random Forest,0,0
+61,Random Forest,0,0
+62,Random Forest,1,1
+63,Random Forest,1,1
+64,Random Forest,0,0
+65,Random Forest,1,1
+66,Random Forest,0,0
+67,Random Forest,0,0
+68,Random Forest,0,0
+69,Random Forest,1,1
+70,Random Forest,1,1
+71,Random Forest,0,0
+72,Random Forest,1,1
+73,Random Forest,1,0
+74,Random Forest,0,0
+75,Random Forest,1,1
+76,Random Forest,1,1
+77,Random Forest,1,1
+78,Random Forest,1,1
+79,Random Forest,1,1
+80,Random Forest,0,0
+81,Random Forest,0,0
+82,Random Forest,0,0
+83,Random Forest,1,1
+84,Random Forest,0,0
+85,Random Forest,1,1
+86,Random Forest,1,1
+87,Random Forest,1,1
+88,Random Forest,0,0
+89,Random Forest,0,0
+90,Random Forest,1,1
+91,Random Forest,0,0
+92,Random Forest,1,1
+93,Random Forest,0,0
+94,Random Forest,1,1
+95,Random Forest,1,1
+96,Random Forest,0,0
+97,Random Forest,1,1
+98,Random Forest,1,1
+99,Random Forest,1,1
+100,Random Forest,1,1
+101,Random Forest,1,1
+102,Random Forest,1,1
+103,Random Forest,1,1
+104,Random Forest,0,0
+105,Random Forest,1,1
+106,Random Forest,0,0
+107,Random Forest,1,1
+108,Random Forest,0,0
+109,Random Forest,0,0
+110,Random Forest,1,1
+111,Random Forest,0,0
+112,Random Forest,0,0
+113,Random Forest,1,1
+114,Random Forest,1,1
+115,Random Forest,1,1
+116,Random Forest,1,1
+117,Random Forest,1,1
+118,Random Forest,1,1
+119,Random Forest,1,1
+120,Random Forest,1,1
+121,Random Forest,1,1
+122,Random Forest,0,0
+123,Random Forest,1,1
+124,Random Forest,0,0
+125,Random Forest,1,1
+126,Random Forest,1,1
+127,Random Forest,1,1
+128,Random Forest,1,1
+129,Random Forest,1,1
+130,Random Forest,0,0
+131,Random Forest,1,1
+132,Random Forest,1,1
+133,Random Forest,1,1
+134,Random Forest,1,1
+135,Random Forest,1,1
+136,Random Forest,1,1
+137,Random Forest,0,0
+138,Random Forest,0,0
+139,Random Forest,1,1
+140,Random Forest,1,1
+141,Random Forest,1,1
+142,Random Forest,0,0
+0,SVM,0,0
+1,SVM,1,1
+2,SVM,1,1
+3,SVM,1,1
+4,SVM,1,1
+5,SVM,1,1
+6,SVM,1,1
+7,SVM,1,1
+8,SVM,1,1
+9,SVM,1,1
+10,SVM,1,1
+11,SVM,1,1
+12,SVM,1,1
+13,SVM,0,1
+14,SVM,1,1
+15,SVM,0,0
+16,SVM,1,1
+17,SVM,0,0
+18,SVM,0,0
+19,SVM,0,0
+20,SVM,0,0
+21,SVM,0,0
+22,SVM,1,1
+23,SVM,1,1
+24,SVM,0,0
+25,SVM,1,1
+26,SVM,1,1
+27,SVM,0,0
+28,SVM,1,1
+29,SVM,0,0
+30,SVM,1,1
+31,SVM,0,0
+32,SVM,1,1
+33,SVM,0,0
+34,SVM,1,1
+35,SVM,0,0
+36,SVM,1,1
+37,SVM,0,0
+38,SVM,1,1
+39,SVM,0,0
+40,SVM,0,0
+41,SVM,1,1
+42,SVM,0,0
+43,SVM,1,1
+44,SVM,1,1
+45,SVM,0,0
+46,SVM,1,1
+47,SVM,1,1
+48,SVM,1,1
+49,SVM,0,0
+50,SVM,0,0
+51,SVM,0,0
+52,SVM,0,0
+53,SVM,1,1
+54,SVM,1,1
+55,SVM,1,1
+56,SVM,1,1
+57,SVM,1,1
+58,SVM,1,1
+59,SVM,0,0
+60,SVM,0,0
+61,SVM,0,0
+62,SVM,1,1
+63,SVM,1,1
+64,SVM,0,0
+65,SVM,1,1
+66,SVM,0,0
+67,SVM,0,0
+68,SVM,0,0
+69,SVM,1,1
+70,SVM,0,1
+71,SVM,0,0
+72,SVM,1,1
+73,SVM,0,0
+74,SVM,0,0
+75,SVM,1,1
+76,SVM,1,1
+77,SVM,1,1
+78,SVM,1,1
+79,SVM,1,1
+80,SVM,0,0
+81,SVM,0,0
+82,SVM,0,0
+83,SVM,1,1
+84,SVM,0,0
+85,SVM,1,1
+86,SVM,1,1
+87,SVM,1,1
+88,SVM,0,0
+89,SVM,0,0
+90,SVM,1,1
+91,SVM,0,0
+92,SVM,0,1
+93,SVM,0,0
+94,SVM,1,1
+95,SVM,1,1
+96,SVM,0,0
+97,SVM,1,1
+98,SVM,1,1
+99,SVM,1,1
+100,SVM,1,1
+101,SVM,1,1
+102,SVM,1,1
+103,SVM,1,1
+104,SVM,0,0
+105,SVM,1,1
+106,SVM,0,0
+107,SVM,1,1
+108,SVM,1,0
+109,SVM,1,0
+110,SVM,1,1
+111,SVM,0,0
+112,SVM,0,0
+113,SVM,1,1
+114,SVM,1,1
+115,SVM,1,1
+116,SVM,1,1
+117,SVM,1,1
+118,SVM,1,1
+119,SVM,1,1
+120,SVM,1,1
+121,SVM,1,1
+122,SVM,1,0
+123,SVM,1,1
+124,SVM,0,0
+125,SVM,1,1
+126,SVM,0,1
+127,SVM,1,1
+128,SVM,1,1
+129,SVM,1,1
+130,SVM,0,0
+131,SVM,1,1
+132,SVM,1,1
+133,SVM,1,1
+134,SVM,1,1
+135,SVM,1,1
+136,SVM,0,1
+137,SVM,0,0
+138,SVM,0,0
+139,SVM,1,1
+140,SVM,1,1
+141,SVM,1,1
+142,SVM,0,0
