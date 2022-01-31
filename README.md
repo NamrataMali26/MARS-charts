@@ -32,5 +32,10 @@ Sample chart produced by the software utilizing the provided breast cancer datas
 ## License
 Distributed under the MIT License.
 
+## Web application
+GUI Format:  
+https://mars-classifier-evaluation.herokuapp.com
+An easy-to-use graphical interface where the user can fill out a web form to upload either their dataset or formatted data (containing classifier labels) file and generate the MARS charts and metrics.
+
 ## Contact
 mars_classifier_evaluation@vt.edu 
